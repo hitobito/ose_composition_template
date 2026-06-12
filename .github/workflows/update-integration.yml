@@ -10,6 +10,7 @@ on:
   # enable this in your composition-repo with the correct time
   # schedule:
   #   - cron: 24 2 * * 1-5
+  #     timezone: 'Europe/Berlin'
 
 jobs:
   release:
